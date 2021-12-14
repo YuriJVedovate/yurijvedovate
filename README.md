@@ -33,3 +33,6 @@ Meu nome é Yuri Vedovate, sou um eterno aprendiz que gosta muito de tecnologia,
   
   ![Snake animation](https://github.com/YuriJVedovate/YuriJVedovate/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+
+
