@@ -27,4 +27,6 @@
   <a href = "mailto:yurivedovate@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yuri-de-jesus-morais-vedovate-5547661a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://open.spotify.com/user/22klwbv75n6dwped7of4rvxhi" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/YuriJVedovate/YuriJVedovate/blob/output/github-contribution-grid-snake.svg)
 </div>
