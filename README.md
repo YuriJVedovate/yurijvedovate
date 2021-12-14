@@ -1,5 +1,8 @@
-## Eae! Eu sou o Yuri Vedovate
+# Eae! Pessoal!
 
+Meu nome é Yuri Vedovate, sou um eterno aprendiz que gosta muito de tecnologia, hoje trabalho como Desenvolvedor backend C# na Stefanini.
+
+##
 <div align="center">
   <a href="https://github.com/YuriJVedovate">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriJVedovate&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
